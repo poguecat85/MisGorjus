@@ -1,0 +1,14 @@
+/* custom styles */
+
+.ui-page {
+	background-image: url(../images/bg.jpg);
+}
+
+.alignLeft {
+	float: left;
+	margin-right: 1em;
+}
+
+.ui-content {
+	background-image: url(../images/homeCTA.jpg);
+}
